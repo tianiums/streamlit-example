@@ -25,7 +25,7 @@ with tab1:
 with tab2:
   st.header("Musim Terbaik dan Cuaca yang mendukung?")
   st.image('Musim terbaik.png')
-  st.image('berdasarkan cuaca.png')
+  st.image('berdasar cuaca.png')
 
 with tab3:
   st.header("Workday atau Weekend yang terbanyak penyewanya?")
