@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1pSM5MUgvAQocEs6uQGPyv7yzumODGR_A
 """
 #conda activate main-ds
-pip install streamlit babel
+#pip install streamlit babel
 
 import pandas as pd
 #import matplotlib.pyplot as plt
