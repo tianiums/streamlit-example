@@ -13,7 +13,7 @@ forums](https://discuss.streamlit.io).
 In the meantime, below is an example of what you can do with just a few lines of code:
 """
 
-sns.set(style='dark')
+
 
 st.title('E-Bike Sharing Analysis')
 tab1, tab2, tab3 = st.tabs(["Tab 1", "Tab 2", "Tab 3"])
