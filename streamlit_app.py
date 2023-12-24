@@ -19,14 +19,14 @@ st.title('E-Bike Sharing Analysis')
 tab1, tab2, tab3 = st.tabs(["Tab 1", "Tab 2", "Tab 3"])
 with tab1:
   st.header("Hari atau Jam dengan penyewa terbanyak?")
-  st.image('https://github.com/tianiums/streamlit-example/blob/master/jam%20efektif.png')
+  st.image('jam efektif.png')
 
 
 with tab2:
   st.header("Musim Terbaik dan Cuaca yang mendukung?")
-  st.image('https://github.com/tianiums/streamlit-example/blob/master/Musim%20terbaik.png')
-  st.image('https://github.com/tianiums/streamlit-example/blob/master/berdasar%20cuaca.png')
+  st.image('Musim terbaik.png')
+  st.image('berdasarkan cuaca.png')
 
 with tab3:
   st.header("Workday atau Weekend yang terbanyak penyewanya?")
-  st.image('https://github.com/tianiums/streamlit-example/blob/master/rata%20arat%20pemakaian.png')
+  st.image('rata arat pemakaian.png')
